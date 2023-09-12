@@ -1,5 +1,13 @@
 "use strict"; // use newer version of javascript thourgout this file
 
+// creating obj object as follows 
+// let obj = {
+//     name : "Alok",
+//     address : "Panna"
+// }
+
+// console.log(obj.name);
+
 let myFirstDate = new Date();
 // console.log(myFirstDate);
 // console.log(typeof myFirstDate); // Object
