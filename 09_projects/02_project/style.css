@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color:antiquewhite
+}
+
+#height{
+    background-color: slateblue;
+    color: white
+}
+
+#weight{
+    background-color: slateblue;
+    color: white
+}
+
+#result{
+    /* background-color: orange; */
+    color: white
+}
+
