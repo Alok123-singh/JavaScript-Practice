@@ -14,6 +14,37 @@
 // })
 
 
+
+// const obj = {
+//     firstName: "Alok",
+//     lastName : "Singh"
+// }
+
+// obj.show = function(){
+//     return `FullName is ${this.firstName} ${this.lastName}`;
+// }
+
+// console.log(obj.show());
+
+// let array = [1,2,3];
+
+// array.fun = function(){
+//     for(let i = 0; i < this.length; i++){
+//         console.log(this[i]);
+//     }
+//     console.log('Alok');
+// }
+
+// array.fun();
+
+// Object.prototype.fun1 = function(){
+//     console.log('Added');
+// }
+
+// array.fun1();
+
+
+
 async function one(){
     const promise = new Promise(function(resolve,reject){
         const error = false;
